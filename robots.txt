@@ -1,8 +1,13 @@
 User-agent: * Allow: /
 Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
 Disallow: /vendors/
-Disallow: /categories/
-
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
 
 Sitemap: https://blog.hyun.site/sitemap.xml
 Sitemap: https://blog.hyun.site/baidusitemap.xml
