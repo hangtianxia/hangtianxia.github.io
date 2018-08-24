@@ -4,14 +4,20 @@
 
     
   <url>
-    <loc>https://blog.hyun.site/posts/fe7dfa33.html</loc>
-    <lastmod>2018-08-24T08:12:50.190Z</lastmod>
+    <loc>https://blog.hyun.site/posts/gd9vja34.html</loc>
+    <lastmod>2018-08-24T08:58:23.955Z</lastmod>
     <data>
         <display>
-        <title>自己动手搭建NAS（三）｜系统安装及简单配置篇</title>
-        <pubTime>2018-08-24T05:32:05.000Z</pubTime>
+        <title>自己动手搭建NAS（二）｜硬件篇</title>
+        <pubTime>2018-08-23T19:02:03.000Z</pubTime>
         
-        <tag>-OpenMediaVault -NAS -系统安装</tag>
+        <tag>NAS</tag>
+         
+        <tag>私有云</tag>
+         
+        <tag>华擎</tag>
+         
+        <tag>J1900</tag>
          
          
            
@@ -24,14 +30,18 @@
 
     
   <url>
-    <loc>https://blog.hyun.site/posts/gd9vja34.html</loc>
-    <lastmod>2018-08-24T05:52:26.638Z</lastmod>
+    <loc>https://blog.hyun.site/posts/fe7dfa33.html</loc>
+    <lastmod>2018-08-24T08:58:21.964Z</lastmod>
     <data>
         <display>
-        <title>自己动手搭建NAS（二）｜硬件篇</title>
-        <pubTime>2018-08-23T19:02:03.000Z</pubTime>
+        <title>自己动手搭建NAS（三）｜系统安装及简单配置篇</title>
+        <pubTime>2018-08-24T05:32:05.000Z</pubTime>
         
-        <tag>-NAS -私有云 -华擎 -J1900</tag>
+        <tag>NAS</tag>
+         
+        <tag>OpenMediaVault</tag>
+         
+        <tag>系统安装</tag>
          
          
            
@@ -45,13 +55,19 @@
     
   <url>
     <loc>https://blog.hyun.site/posts/9d320318.html</loc>
-    <lastmod>2018-08-23T19:39:48.671Z</lastmod>
+    <lastmod>2018-08-24T08:56:53.314Z</lastmod>
     <data>
         <display>
         <title>自己动手搭建NAS（一）｜简介</title>
         <pubTime>2018-08-22T09:07:52.000Z</pubTime>
         
-        <tag>-NAS -群晖 -DIY -私有云</tag>
+        <tag>NAS</tag>
+         
+        <tag>群晖</tag>
+         
+        <tag>DIY</tag>
+         
+        <tag>私有云</tag>
          
          
            
