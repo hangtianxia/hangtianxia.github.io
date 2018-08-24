@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.hyun.site/posts/null.html</loc>
+    
+    <lastmod>2018-08-24T04:39:19.531Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.hyun.site/posts/undefined.html</loc>
     
     <lastmod>2018-08-24T04:36:43.035Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://blog.hyun.site/posts/9d320318.html</loc>
     
     <lastmod>2018-08-23T19:39:48.671Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.hyun.site/posts/undefined.html</loc>
-    
-    <lastmod>2018-08-23T19:38:54.381Z</lastmod>
     
   </url>
   
